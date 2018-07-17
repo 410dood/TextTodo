@@ -19,7 +19,7 @@
         "email"
       ],
       "redirectURIs": [
-        "http://localhost:8001/"
+        "https://cryptic-waters-11087.herokuapp.com/"
       ]
     }
   },
