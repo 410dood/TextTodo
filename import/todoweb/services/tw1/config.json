@@ -1,9 +1,0 @@
-{
-    "id": "5b4c1f3e8fecde7dec2b973a",
-    "name": "tw1",
-    "type": "twilio",
-    "config": {
-        "sid": "AC4362215f434f81dba6fc9804a3c4addd"
-    },
-    "version": 1
-}
