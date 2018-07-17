@@ -1,18 +1,21 @@
 {
   "name": "todo",
   "version": "1.0.0",
+  "homepage": "http://410dood.github.io/TextTodo",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --progress --colors --hot --config ./webpack.config.js --host https://cryptic-waters-11087.herokuapp.com/",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --progress --colors --hot --config ./webpack.config.js --host 0.0.0.0 --port 8001",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -b master -d build",
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -rf ./build/index.bundle.js",
+    "compile": "NODE_ENV=production webpack --config"
   },
   "keywords": [],
   "author": "",
-  "devServer": {
-    "headers": {
+  "headers": {
       "Access-Control-Allow-Origin": "*"
-    }
   },
   "babel": {
     "presets": [
@@ -38,12 +41,14 @@
   },
   "dependencies": {
     "css-loader": "^0.26.1",
+    "gh-pages": "^1.2.0",
     "google-maps-react": "^2.0.2",
     "mongodb-stitch": "^3.0.0",
     "mongodb-stitch-browser-sdk": "^4.0.0",
     "node-sass": "^4.0.0",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
+    "react-scripts": "^1.1.4",
     "reactstrap": "^6.3.0",
     "resolve-url-loader": "^1.6.0",
     "sass-loader": "^6.0.6",

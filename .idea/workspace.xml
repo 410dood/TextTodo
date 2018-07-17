@@ -3,143 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7787f527-7257-4040-bc4f-dba6a1f773db" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/animated_vector_drawable_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/appcompat_v7_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/bolts_android_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/bolts_applinks_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/bolts_tasks_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/bson_3_5_0_SNAPSHOT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/cardview_v7_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/commons_lang3_3_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/customtabs_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/design_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/facebook_android_sdk_4_21_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/jackson_annotations_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/jackson_core_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/jackson_databind_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/library_1_0_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/play_services_auth_10_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/play_services_auth_base_10_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/play_services_base_10_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/play_services_basement_10_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/play_services_gcm_10_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/play_services_iid_10_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/play_services_tasks_10_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/recyclerview_v7_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/stitch_0_1_0_SNAPSHOT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/support_annotations_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/support_compat_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/support_core_ui_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/support_core_utils_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/support_fragment_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/support_media_compat_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/support_v4_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/support_vector_drawable_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/libraries/transition_25_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/markdown-navigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/assets/stitch.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/java/com/mongodb/stitch/sdk/examples/todo/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/java/com/mongodb/stitch/sdk/examples/todo/TodoItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/java/com/mongodb/stitch/sdk/examples/todo/TodoListAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/drawable/ic_add_circle_black_24dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/drawable/ic_add_white_48px.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/layout/activity_main_todo_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/layout/add_item.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/layout/todo_item.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/todo/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/app_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/auth_providers/anon-user.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/auth_providers/api-key.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/auth_providers/oauth2-facebook.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/auth_providers/oauth2-google.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/functions/sendConfirmation/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/functions/sendConfirmation/source.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/ourNumber.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/secrets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/leaveontime/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/leaveontime/incoming_webhooks/twilioWebhook/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/leaveontime/incoming_webhooks/twilioWebhook/source.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/leaveontime/rules/test.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/leaveontime/rules/tw1 service.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/mongodb-atlas/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/mongodb-atlas/rules/todo.bill.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/mongodb-atlas/rules/todo.items.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/mongodb-atlas/rules/todo.users.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/tw1/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/tw1/incoming_webhooks/twilioWebhook/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/tw1/incoming_webhooks/twilioWebhook/source.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/services/tw1/rules/EnableSend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/stitch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import/todoweb/values/ourNumber.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/.gitmodules" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample.xcodeproj/project.xcworkspace/xcshareddata/MongoDBSample.xcscmblueprint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample.xcworkspace/xcshareddata/MongoDBSample.xcscmblueprint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Classes/AppDelegate/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Classes/BridgingHeader/MongoDBSample-Bridging-Header.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Classes/Controllers/Authentication/AuthenticationViewController.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Classes/Controllers/Authentication/EmailAuthViewController.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Classes/Controllers/MongoDBManager.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Classes/Controllers/TodoList/CheckBox.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Classes/Controllers/TodoList/TodoItem.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Classes/Controllers/TodoList/TodoItemTableViewCell.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Classes/Controllers/TodoList/TodoListViewController.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Classes/ViewController.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Resources/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Resources/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Resources/Stitch-Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Resources/Storyboards/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/MongoDBSample/Resources/Storyboards/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Podfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/todo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/todo.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -158,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/static/todo.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1899">
-              <caret line="178" lean-forward="true" selection-start-line="178" selection-end-line="178" />
+              <caret line="178" selection-start-line="178" selection-end-line="178" />
             </state>
           </provider>
         </entry>
@@ -167,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -201,8 +66,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="138" selection-start-line="6" selection-start-column="138" selection-end-line="6" selection-end-column="138" />
+            <state relative-caret-position="45">
+              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -210,8 +75,8 @@
       <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+            <state relative-caret-position="510">
+              <caret line="34" column="57" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -278,8 +143,8 @@
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/import/todoweb/services/mongodb-atlas/rules/todo.items.json" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/app_config.json" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
@@ -320,6 +185,22 @@
               <item name="todo" type="b2602c69:ProjectViewProjectNode" />
               <item name="todo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -359,12 +240,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531710196578</updated>
-      <workItem from="1531710198202" duration="29222000" />
+      <workItem from="1531710198202" duration="30721000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29222000" />
+    <option name="totallyTimeSpent" value="30721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="840" y="23" width="840" height="947" extended-state="0" />
@@ -599,7 +480,7 @@
     <entry file="file://$PROJECT_DIR$/static/todo.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1899">
-          <caret line="178" lean-forward="true" selection-start-line="178" selection-end-line="178" />
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
         </state>
       </provider>
     </entry>
@@ -644,7 +525,7 @@
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -668,13 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app_config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-133">
@@ -682,10 +556,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="57" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="138" selection-start-line="6" selection-start-column="138" selection-end-line="6" selection-end-column="138" />
+        <state relative-caret-position="45">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
         </state>
       </provider>
     </entry>
